@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jiaruimao
+- 👋 Hi, I’m @jiaruimao and I'm a UNC freshman ^^
 - 🤖️ I’m interested in public health and games!
-- 🌱 I’m currently learning statistics and python
+- 🌱 I’m currently learning statistics and python//
 
 <!---
 jiaruimao/jiaruimao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
